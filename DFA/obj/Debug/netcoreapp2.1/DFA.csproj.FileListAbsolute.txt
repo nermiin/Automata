@@ -1,0 +1,11 @@
+C:\Users\Najwa\source\repos\DFA\DFA\bin\Debug\netcoreapp2.1\DFA.deps.json
+C:\Users\Najwa\source\repos\DFA\DFA\bin\Debug\netcoreapp2.1\DFA.runtimeconfig.json
+C:\Users\Najwa\source\repos\DFA\DFA\bin\Debug\netcoreapp2.1\DFA.runtimeconfig.dev.json
+C:\Users\Najwa\source\repos\DFA\DFA\bin\Debug\netcoreapp2.1\DFA.dll
+C:\Users\Najwa\source\repos\DFA\DFA\bin\Debug\netcoreapp2.1\DFA.pdb
+C:\Users\Najwa\source\repos\DFA\DFA\obj\Debug\netcoreapp2.1\DFA.csprojAssemblyReference.cache
+C:\Users\Najwa\source\repos\DFA\DFA\obj\Debug\netcoreapp2.1\DFA.csproj.CoreCompileInputs.cache
+C:\Users\Najwa\source\repos\DFA\DFA\obj\Debug\netcoreapp2.1\DFA.AssemblyInfoInputs.cache
+C:\Users\Najwa\source\repos\DFA\DFA\obj\Debug\netcoreapp2.1\DFA.AssemblyInfo.cs
+C:\Users\Najwa\source\repos\DFA\DFA\obj\Debug\netcoreapp2.1\DFA.dll
+C:\Users\Najwa\source\repos\DFA\DFA\obj\Debug\netcoreapp2.1\DFA.pdb
