@@ -2,7 +2,7 @@
 //FileName: DFA_machine.cs
 //FileType: Visual C# Source file
 //Size : 26206
-//Author : Nermin Kaya  G161210560
+//Author : Nermin Kaya  
 //github.com/nermiin
 //Created On : 25/11/2019 01:38:39 PM
 //Last Modified On : 28/11/2019 15:38:39 PM
